@@ -1,4 +1,4 @@
-# ✋🔊 Gesture Volume Control (Python + OpenCV + MediaPipe + Pycaw)
+# 🔊 Gesture Volume Control (Python + OpenCV + MediaPipe + Pycaw)
 
 A real-time hand gesture-based volume control system using your webcam. By tracking the distance between your thumb and index finger, the system adjusts the system audio volume dynamically.
 
